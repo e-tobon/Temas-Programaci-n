@@ -1,0 +1,10 @@
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\bin\Debug\Tarea_1_Dibujos con lineas.exe.config
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\bin\Debug\Tarea_1_Dibujos con lineas.exe
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\bin\Debug\Tarea_1_Dibujos con lineas.pdb
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\obj\Debug\Tarea_1_Dibujos con lineas.csprojAssemblyReference.cache
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\obj\Debug\Tarea_1_Dibujos_con_lineas.Form1.resources
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\obj\Debug\Tarea_1_Dibujos_con_lineas.Properties.Resources.resources
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\obj\Debug\Tarea_1_Dibujos con lineas.csproj.GenerateResource.cache
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\obj\Debug\Tarea_1_Dibujos con lineas.csproj.CoreCompileInputs.cache
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\obj\Debug\Tarea_1_Dibujos con lineas.exe
+C:\Users\52222\Documents\Octavo Semestre\Temas Selectos de programación\Tarea_1_Dibujos con lineas\Tarea_1_Dibujos con lineas\obj\Debug\Tarea_1_Dibujos con lineas.pdb
